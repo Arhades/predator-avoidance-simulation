@@ -1,0 +1,1 @@
+Stores the world state, fixed-timestep physics and collisions
